@@ -1,0 +1,17 @@
+{
+    "name": "clemance/wait",
+    "description": "App essaie",
+    "type": "project",
+    "license": "MIT",
+    "authors": [{
+        "name": "francis ALAPHIA",
+        "email": "francisalaphia5@gmail.com"
+    }],
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    }
+}
